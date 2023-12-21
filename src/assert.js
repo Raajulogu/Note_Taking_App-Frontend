@@ -1,4 +1,4 @@
 let asserts = {
-    backend_url: "http://localhost:5050/api",
+    backend_url: "https://notes-taking-app-backend.vercel.app/api",
   };
    export default asserts

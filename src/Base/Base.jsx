@@ -98,7 +98,7 @@ const Base = ({ children }) => {
                   }}
                 >
                   <img
-                    src="https://t3.ftcdn.net/jpg/01/34/58/02/360_F_134580286_qwzfps5JyCbU4EG8WdJdgtKPyUM0orWU.jpg"
+                    src="https://cdn1.iconfinder.com/data/icons/productivity-aesthetics-vol-2/256/Note_taking_App-512.png"
                     style={{
                       height: "100px",
                       width: "100px",
